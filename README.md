@@ -1,6 +1,4 @@
-# Team 30 Project
-
-Project name: ImageBooth
+# ImageBooth
 
 ## Updates
 * ADD front-end validator and back-validator
